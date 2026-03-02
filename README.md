@@ -12,7 +12,7 @@ Questo GitHub è la mia **vetrina tecnica**: web app e strumenti che nascono dal
 
 Ogni progetto qui dentro parte da un bisogno concreto, non da un esercizio tecnico. Uso l’AI generativa come collaboratore per progettare e costruire strumenti che funzionano, con rigore e sguardo poetico.
 
-Con lo stesso metodo è nato [**Giovanni Gut & AI**]([https://giovannigut.github.io/giovannigutai]) — un album dove poesia e intelligenza artificiale diventano musica.
+Con lo stesso metodo è nato [**Giovanni Gut & AI**](https://giovannigut.github.io/giovannigutai) — un album dove poesia e intelligenza artificiale diventano musica.
 
 Quello che faccio, qui lo metto alla prova.
 
