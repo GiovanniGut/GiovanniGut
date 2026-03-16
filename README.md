@@ -16,6 +16,8 @@ Questo GitHub è la mia vetrina tecnica. Ogni progetto nasce da un bisogno reale
 
 📷 **[Maestri di Luce](https://giovannigut.github.io/maestri-di-luce/)** — Strumenti di emulazione fotografica ad alta fedeltà per il ragionamento visivo.
 
+📸 **[Scrivere con la Luce](https://giovannigut.github.io/scrivereconlaluce/)** — Imposta fotocamera o telefono per la street photography ispirandoti ai grandi maestri.
+
 📅 **[Calcolatore date di coaching](https://giovannigut.github.io/Coaching-calculator/)** — Calcola la lunghezza temporale di un percorso di coaching.
 
 🦕 **[Dino Tab](https://giovannigut.github.io/Dino-Tab-Carlo/index.html)** — Imparare le tabelline con i dinosauri.
