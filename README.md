@@ -1,6 +1,6 @@
 # Giovanni Gut
 
-**Coach · AI Trainer · Poeta**
+**Coach · AI Trainer · Orietatore professionale · Poeta**
 
 Metto in dialogo mondi che di solito non si parlano: intelligenza artificiale e educazione, coaching e poesia, tecnologia e umanità.
 
